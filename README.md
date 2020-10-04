@@ -22,6 +22,7 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+  * [Branches](#branches)
 * [Description](#description)
 * [License](#license)
 * [Contact](#contact)
@@ -37,7 +38,7 @@ Building a web application to predict the PM2.5 value. The value then is evaluat
 <!-- ![[Webapp](https://air-quality-regressor.herokuapp.com/)](images\webapp.png) -->
 
 <a href=https://air-quality-regressor.herokuapp.com/>
-    <img src="images/webapp.png" alt="Logo" width="400" height="550">
+    <img src="images/webapp.png" alt="Logo">
 </a>
 
 ### Built With
@@ -45,6 +46,11 @@ Building a web application to predict the PM2.5 value. The value then is evaluat
 * [TensorFLow](https://www.tensorflow.org/)
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [Heroku](https://www.heroku.com/)
+
+### Branches
+
+* main - contains documentation and jupyter notebook
+* deployment - contains web application
 
 <!-- GETTING STARTED -->
 ## Description

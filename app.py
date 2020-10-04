@@ -1,11 +1,7 @@
-import base64
 import numpy as np
-import io
 import keras
-from keras import Sequential
 from keras.models import load_model
 from flask import request
-from flask import jsonify
 from flask import Flask, render_template
 
 app = Flask(__name__)
@@ -28,6 +24,8 @@ get_model()
 @app.route('/predict', methods = ['POST'])
 def predict():
     int_features = [float(x) for x in request.form.values()]
+    int_features.append(57.29578 * np.arctan2(int_features[1],int_features[2]) + 180)
+    int_features.append(np.sqrt(int_features[1]**2 + int_features[2]**2))
     print(int_features)
     prediction = model.predict(np.expand_dims(np.array(int_features), axis=0))
     return render_template('index.html', prediction_text='PM2.5 readings should be {0:.2f}'.format(prediction[0][0]))

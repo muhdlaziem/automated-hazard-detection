@@ -34,7 +34,9 @@
 
 Building a web application to predict the PM2.5 value. The value then is evaluate to determine the quality of air. However, since the project is still at early stage, our model still have so much room for improvements. We also planned to add more functionalities such as sending alert message to notify user.
 
-[![Webapp](images\webapp.png)](https://air-quality-regressor.herokuapp.com/)
+![[Webapp](https://air-quality-regressor.herokuapp.com/)](images\webapp.png)
+
+<!-- Link to website: [https://air-quality-regressor.herokuapp.com/](https://air-quality-regressor.herokuapp.com/) -->
 
 ### Built With
 

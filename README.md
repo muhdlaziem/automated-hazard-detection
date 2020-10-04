@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/muhdlaziem/automated-hazard-detection">
-    <img src="images/nasasac.jpg" alt="Logo" width="80" height="80">
+    <img src="images/nasasac.jpg" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">NASA SPACE APPS CHALLENGE 2020</h3>
@@ -36,9 +36,9 @@ Building a web application to predict the PM2.5 value. The value then is evaluat
 
 <!-- ![[Webapp](https://air-quality-regressor.herokuapp.com/)](images\webapp.png) -->
 
-![Webapp](images\webapp.png)
-
-Link to website: [https://air-quality-regressor.herokuapp.com/](https://air-quality-regressor.herokuapp.com/)
+<a href=https://air-quality-regressor.herokuapp.com/>
+    <img src="images/webapp.png" alt="Logo" width="400" height="550">
+</a>
 
 ### Built With
 

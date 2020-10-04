@@ -63,7 +63,7 @@ Muhammad Amiruddin bin Bustaman - [@amrnumenor](https://github.com/amrnumenor) -
 
 Muhammad Laziem Bin Shafie - [@muhdlaziem](https://github.com/muhdlaziem) - muhdlaziem@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/muhdlaziem/automated-hazard-detection)
+Project Link: [Automated-Hazard-Detection](https://github.com/muhdlaziem/automated-hazard-detection)
 <hr>
 
 ## Contributing

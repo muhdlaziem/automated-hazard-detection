@@ -37,7 +37,7 @@ Building a web application to predict the PM2.5 value. The value then is evaluat
 <!-- ![[Webapp](https://air-quality-regressor.herokuapp.com/)](images\webapp.png) -->
 
 <a href=https://air-quality-regressor.herokuapp.com/>
-    <img src="images/webapp.png" alt="Logo" width="400" height="550">
+    <img src="images/webapp.png" alt="Logo">
 </a>
 
 ### Built With

@@ -45,20 +45,19 @@ Link to website: [https://air-quality-regressor.herokuapp.com/](https://air-qual
 * [TensorFLow](https://www.tensorflow.org/)
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [Heroku](https://www.heroku.com/)
-<hr>
 
 <!-- GETTING STARTED -->
 ## Description
 
 Countless phenomena such as floods, fires, and air pollution routinely impact ecosystems, economies, and human safety.
 Using deep learning, our regressor model is specialize in calculating the air quality in Particulate Matter 2.5 (PM2.5) measurement provided a few other factors which are Relative Humidity (RH), UGRD & VGRD, Height of Planetary Boundary Layer (HPBL), Temperature (TMP) and AOD reading from GOES R.
-<hr>
+
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License.
-<hr>
+
 
 <!-- CONTACT -->
 ## Contact
@@ -68,11 +67,11 @@ Muhammad Amiruddin bin Bustaman - [@amrnumenor](https://github.com/amrnumenor) -
 Muhammad Laziem Bin Shafie - [@muhdlaziem](https://github.com/muhdlaziem) - muhdlaziem@gmail.com
 
 Project Link: [Automated-Hazard-Detection](https://github.com/muhdlaziem/automated-hazard-detection)
-<hr>
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-<hr>
+
 
 ## Resources
 

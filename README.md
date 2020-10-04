@@ -60,9 +60,7 @@ Countless phenomena such as floods, fires, and air pollution routinely impact ec
 Using deep learning, our regressor model is specialize in calculating the air quality in Particulate Matter 2.5 (PM2.5) measurement provided a few other factors which are Relative Humidity (RH), UGRD & VGRD, Height of Planetary Boundary Layer (HPBL), Temperature (TMP) and AOD reading from GOES R.
 
 ## Usage
-<a href=https://air-quality-regressor.herokuapp.com>
-    <img src="images\nasasac.gif" alt="demo">
-</a>
+![Demo](images\nasasac.gif)
 
 <!-- LICENSE -->
 ## License
